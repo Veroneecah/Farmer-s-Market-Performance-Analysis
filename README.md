@@ -99,6 +99,9 @@ o	Younger age groups contribute less
 
 	Insight: Products and campaigns should primarily target adult and senior customer segments.
 
+## Dashboard Interaction
+<a href="https://github.com/Veroneecah/Farmer-s-Market-Performance-Analysis/blob/main/Farmer's%20market%20Analysis.png">View Dashboard</a>
+
 ## Dashboard Features
 
 	Interactive slicers for Year, Gender, and Country
