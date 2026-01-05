@@ -7,6 +7,8 @@ This project analyzes sales revenue, customer behavior, and traffic trends using
 ## View Dataset
 <a href="https://github.com/Veroneecah/Farmer-s-Market-Performance-Analysis/commit/8eec1a03b9d4831df8b617eaf2983fec9f812fa3">Dataset
 
+## Dashboard Interaction
+<a href="https://github.com/Veroneecah/Farmer-s-Market-Performance-Analysis/blob/main/Farmer's%20market%20Analysis.png">View Dashboard</a>
 
 ## This analysis focuses on:
 
@@ -137,11 +139,6 @@ o	Younger age groups contribute less
 ##Dashboard
 <img width="954" height="477" alt="image" src="https://github.com/user-attachments/assets/df720426-9576-41e1-a491-b2ad0118fda0" />
 
-
-
-## Dashboard Interaction
-<a href="https://github.com/Veroneecah/Farmer-s-Market-Performance-Analysis/blob/main/Farmer's%20market%20Analysis.png">View Dashboard</a>
-
 ## Dashboard Features
 
 	Interactive slicers for Year, Gender, and Country
@@ -151,5 +148,20 @@ o	Younger age groups contribute less
 	Clear visual hierarchy for executive reporting
 
 	Data Validation & Accuracy
+
+## Recommendations
+
+	Focus marketing efforts on high-revenue months and weekdays
+
+	Prioritize brand-loyal customers with targeted campaigns
+
+	Expand operations in top-performing countries and regions
+
+	Design products and offers for adult and senior demographics
+
+
+
+
+
 
 	Verified totals using Pivot Tables
