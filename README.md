@@ -1,7 +1,9 @@
 # Project Title
 Sales, Customer & Revenue Performance Analysis Using Excel Dashboard
+
 ## Project Overview
 This project analyzes sales revenue, customer behavior, and traffic trends using Microsoft Excel. The goal was to transform raw transactional data into clear, interactive insights that support business decision-making.
+
 ## View Dataset
 <a href="https://github.com/Veroneecah/Farmer-s-Market-Performance-Analysis/commit/8eec1a03b9d4831df8b617eaf2983fec9f812fa3">Dataset
 
@@ -121,11 +123,20 @@ o	Younger age groups contribute less
 	Designed Data Visualizations
 
 	Built an Interactive Dashboard
+
 	Validated Results
+
 	Analyzed Insights
+
 	Developed Business Recommendations
+
 	Documented the Project
+
 	Final Review & Presentation
+
+##Dashboard
+<img width="1483" height="735" alt="image" src="https://github.com/user-attachments/assets/a21d85a8-1b33-488d-a818-d2e566d703b3" />
+
 
 
 ## Dashboard Interaction
