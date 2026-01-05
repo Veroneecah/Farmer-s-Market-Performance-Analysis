@@ -135,7 +135,8 @@ o	Younger age groups contribute less
 	Final Review & Presentation
 
 ##Dashboard
-<img width="1483" height="735" alt="image" src="https://github.com/user-attachments/assets/a21d85a8-1b33-488d-a818-d2e566d703b3" />
+https://github.com/Veroneecah/Farmer-s-Market-Performance-Analysis/blob/main/Farmer's%20market%20Analysis.png
+
 
 
 
