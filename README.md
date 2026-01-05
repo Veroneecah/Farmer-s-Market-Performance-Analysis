@@ -37,6 +37,7 @@ This project analyzes sales revenue, customer behavior, and traffic trends using
 	Average Customer Age: **51**
 These KPIs provide a quick executive-level summary of overall business performance.
 
+
 	Monthly Revenue Trend
 
 o	Revenue remains relatively stable throughout the year
@@ -46,6 +47,7 @@ o	Peak revenue is observed in March, April, November, and December
 o	Mid-year months show a slight dip, indicating seasonal buying behavior
 
 	Insight: The business experiences higher sales toward the beginning and end of the year.
+
 
  Weekday Revenue & Traffic
 
@@ -57,6 +59,7 @@ o	Lower performance is observed mid-week
 
 	Insight: Promotions and staffing should be optimized around high-traffic weekdays.
 
+
  Customer Demographics – Gender & Marital Status
 
 o	Single customers generate higher revenue than married customers
@@ -64,6 +67,7 @@ o	Single customers generate higher revenue than married customers
 o	Revenue is fairly balanced across genders
 
 	Insight: Marketing strategies can be tailored more toward high-spending customer groups.
+
 
  Revenue by Customer Value Segment
 
@@ -73,6 +77,7 @@ o	Casual Buyers contribute a smaller but consistent portion
 
 	Insight: Retaining brand-loyal customers is critical for sustained revenue growth.
 
+
 	Top Customers by Revenue
 
 o	The Top 10 customers contribute a significant portion of total revenue
@@ -81,6 +86,7 @@ o	Individual customer contributions range between $15K–$18K
 
 	Insight: High-value customers should be targeted with loyalty and retention programs.
 
+
  Revenue by Country & Region
 
 o	Australia and the United Kingdom are top-performing regions
@@ -88,6 +94,7 @@ o	Australia and the United Kingdom are top-performing regions
 o	Other regions contribute smaller but steady revenue streams
 
 	Insight: Expansion and targeted campaigns in high-performing regions could increase revenue further.
+
 
  Revenue by Age Band
 
