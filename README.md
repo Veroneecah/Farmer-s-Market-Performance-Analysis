@@ -159,4 +159,4 @@ o	Younger age groups contribute less
 
 	Design products and offers for adult and senior demographics
 
-	Verified totals using Pivot Tables
+
